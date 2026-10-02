@@ -220,3 +220,6 @@ Tunisie 🇹🇳
 ## 📄 Licence
 
 Projet réalisé dans un cadre académique.
+<img width="1911" height="885" alt="Capture d&#39;écran 2026-10-02 111258" src="https://github.com/user-attachments/assets/fd42a101-10f9-460b-b1d8-2c0689ed1f2c" />
+
+<img width="1919" height="947" alt="Capture d&#39;écran 2026-10-02 111504" src="https://github.com/user-attachments/assets/ac724132-bb36-40da-bd68-f462bcd33799" />
